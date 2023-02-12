@@ -7,7 +7,7 @@
 - Ask me about **Python, SQL, Tableau, Classical Machine Learning.**
 - Also have hobbies involving [**Front End Development.**](https://iamazadak.github.io/aka-portfolio-website/)
 - How to reach me anandazad1993@gmail.com
-- Know about my previous experiences - [Resume Link](AnandCV.pdf(https://github.com/iamazadak/iamazadak/files/10716253/AnandCV.pdf)
+- Know about my previous experiences here -[**Resume Link**](https://github.com/iamazadak/iamazadak/files/10716253/AnandCV.pdf)
 ---
 ### Connect with me:
 [![icons8-linkedin-circled-96](https://user-images.githubusercontent.com/16230800/218312867-604921ae-1d69-472e-8146-2df38fc58b1e.png)][1]
