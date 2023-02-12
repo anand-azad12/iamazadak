@@ -1,4 +1,4 @@
-#                                                        Hey Hi 👋 , I ‘m Anand Azad
+ Hey Hi 👋 , I ‘m Anand Azad
 ---
 ## A passionate data scientist from New Delhi,India.
 - I’m currently learning **Flask, Stream_lit, PyTorch, TensorFlow.**
