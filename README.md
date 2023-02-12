@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[![LinkedIn Profile](Image Logo Link)][1]
+[![LinkedIn Profile] (Image Logo Link)][1]
 
-[![Github Profile](Image Logo Link)][2]
+[![Github Profile] (Image Logo Link)][2]
 
-[![Instagram Profile](Image Logo Link)[3]
+[![Instagram Profile] (Image Logo Link)][3]
 
 
 [1]: https://www.linkedin.com//in/anand-azad-3604aa141/
