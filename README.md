@@ -9,7 +9,7 @@
 - Also have hobbies involving **Front End Development.**
 - How to reach me anandazad1993@gmail.com
 - Know about my previous experiences - (Resume Link)
-
+---
 ### Connect with me:
 
 [![icons8-linkedin-circled-96](https://user-images.githubusercontent.com/16230800/218312867-604921ae-1d69-472e-8146-2df38fc58b1e.png)][1]
@@ -23,7 +23,7 @@
 [3]:https://www.instagram.com/iamazadak
 [4]:https://www.gmail.com
 [5]:https://www.youtube.com/@anandazad5764
-
+---
 ### Languages:
 
 ![icons8-python-64](https://user-images.githubusercontent.com/16230800/218315522-16f18a97-ac6a-42c3-b394-1e177dace15d.png)
@@ -32,3 +32,4 @@
 ![icons8-javascript-64](https://user-images.githubusercontent.com/16230800/218315524-99d15c12-ed9b-4a54-85ba-35fccfe8f1ee.png)
 ![icons8-css-64](https://user-images.githubusercontent.com/16230800/218315526-0fad7a7e-957a-461d-9bfd-aa79379ac86b.png)
 
+---
