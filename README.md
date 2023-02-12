@@ -1,10 +1,10 @@
 #                                                        Hey Hi 👋 , I ‘m Anand Azad
 ---
 ## A passionate data scientist from India, currently operating from New Delhi.
-
+![](https://github.com/iamazadak/iamazadak/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif)
 - I’m currently learning **Flask, Stream_lit, PyTorch, TensorFlow.**
 - All of my projects are at available at link : [Project Repository Link](Paste it here)    
-- Ask me about **Python, SQL, Tableau, Classical Machine Learning.**   ![](https://github.com/iamazadak/iamazadak/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif)
+- Ask me about **Python, SQL, Tableau, Classical Machine Learning.**   
 - Also have hobbies involving [**Front End Development.**](https://iamazadak.github.io/aka-portfolio-website/)
 - How to reach me anandazad1993@gmail.com
 - Know about my previous experiences here - [**Resume Link**](https://github.com/iamazadak/iamazadak/files/10716253/AnandCV.pdf)
