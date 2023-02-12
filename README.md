@@ -27,7 +27,7 @@
 ![icons8-python-64](https://user-images.githubusercontent.com/16230800/218315522-16f18a97-ac6a-42c3-b394-1e177dace15d.png)
 ![icons8-sql-64](https://user-images.githubusercontent.com/16230800/218315519-59a50796-927f-4f9c-81a6-55530d0da8eb.png)
 ![icons8-html-64](https://user-images.githubusercontent.com/16230800/218315530-a55a35c8-be18-427d-bda4-e48e53180883.png)
-![icons8-javascript-64](https://user-images.githubusercontent.com/16230800/218315524-99d15c12-ed9b-4a54-85ba-35fccfe8f1ee.png)
 ![icons8-css-64](https://user-images.githubusercontent.com/16230800/218315526-0fad7a7e-957a-461d-9bfd-aa79379ac86b.png)
+![icons8-javascript-64](https://user-images.githubusercontent.com/16230800/218315524-99d15c12-ed9b-4a54-85ba-35fccfe8f1ee.png)
 
 ---
