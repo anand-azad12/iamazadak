@@ -31,3 +31,12 @@
 ![icons8-javascript-64](https://user-images.githubusercontent.com/16230800/218315524-99d15c12-ed9b-4a54-85ba-35fccfe8f1ee.png)
 
 ---
+### Tools:
+![icons8-tensorflow-48](https://user-images.githubusercontent.com/16230800/218316369-6dd21914-1ead-41dd-8c92-8d84ec6ca8a9.png)
+![icons8-numpy-48](https://user-images.githubusercontent.com/16230800/218316376-170fe66e-a25d-4ac7-8fde-5c18428eb1dd.png)
+![icons8-pandas-48](https://user-images.githubusercontent.com/16230800/218316377-95791985-f823-4890-aec6-6e352028da73.png)
+![icons8-mongodb-48](https://user-images.githubusercontent.com/16230800/218316378-bdbceb60-10a4-498f-855c-5aaa045e2f0d.png)
+![icons8-postgresql-48](https://user-images.githubusercontent.com/16230800/218316380-92c30f4e-b525-4404-8560-8172bcbb5941.png)
+![icons8-tableau-software-48](https://user-images.githubusercontent.com/16230800/218316381-2dd7fd49-133b-45eb-b0f0-8025a9985613.png)
+![icons8-amazon-web-services-48](https://user-images.githubusercontent.com/16230800/218316382-4d1cf45c-de5c-4fd4-a867-1fbc625b5fed.png)
+
