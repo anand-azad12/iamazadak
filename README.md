@@ -1,7 +1,7 @@
  Hey Hi 👋 , I ‘m Anand Azad
 ---
 ## A passionate data scientist from New Delhi,India.
-- I’m currently learning **Flask, Stream_lit, PyTorch, TensorFlow.**
+- I’m currently learning **Flask, Streamlit, PyTorch, TensorFlow.**
 - All of my projects are at available at link : [Project Repository Link](Paste it here)    
 - Ask me about **Python, SQL, Tableau, Classical Machine Learning.**   
 - Also have hobbies involving [**Front End Development.**](https://iamazadak.github.io/aka-portfolio-website/)
