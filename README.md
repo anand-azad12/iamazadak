@@ -2,7 +2,7 @@
 ---
 ## A passionate data scientist from New Delhi,India.
 - I’m currently learning **Flask, Streamlit, PyTorch, TensorFlow.**
-- All of my projects are at available at link : [Project Repository Link](Paste it here)    
+- All of my projects are at available at link : [**Project Repository Link**](https://github.com/iamazadak/Project_Portfolio)   
 - Ask me about **Python, SQL, Tableau, Classical Machine Learning.**   
 - Also have hobbies involving [**Front End Development.**](https://iamazadak.github.io/aka-portfolio-website/)
 - How to reach me anandazad1993@gmail.com
